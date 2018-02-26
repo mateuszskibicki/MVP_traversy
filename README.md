@@ -1,4 +1,4 @@
-This is an instruction how to use how to use these files.
+This is an instruction how to use these files.
 ## MVC OOP PHP - Traversy Media course on Udemy.
 Pattern built with this course.
 
